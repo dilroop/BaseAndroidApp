@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Desi GPS Camera</string>
+
+    <string name="camera_permission_title">Take photos</string>
+    <string name="camera_permission_description">Capture stunning moments with your camera.</string>
+
+    <string name="storage_permission_title">Save your photos</string>
+    <string name="storage_permission_description">Save your photos securely on your device.</string>
+
+    <string name="location_permission_title">Add location overlays</string>
+    <string name="location_permission_description">Automatically show your location on your photos.</string>
+
+    <string name="go_to_settings_title">Do it manually?</string>
+    <string name="go_to_settings_description">Update the settings manually.</string>
+
+    <string name="permission_allow_button">Allow</string>
+    <string name="go_to_settings_button">Settings</string>
+
+</resources>
